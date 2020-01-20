@@ -59,7 +59,6 @@ coi
 col
 come
 con
-contro
 cui
 da
 dagl
@@ -178,9 +177,7 @@ nell
 nella
 nelle
 nello
-no
 noi
-non
 nostra
 nostre
 nostri
@@ -191,7 +188,6 @@ perché
 però
 più
 pochi
-poco
 qua
 quale
 quanta
